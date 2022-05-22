@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LatifYegane
+- 👋 Hi, I’m @LatifeYeganezade
 - 👀 I’m interested in Front-end Web Development.
 - 🌱 I’m currently learning HTML & CSS.
 
